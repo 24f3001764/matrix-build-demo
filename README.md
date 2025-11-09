@@ -1,5 +1,7 @@
 #!/bin/bash
 
+Email: 24f3001764@ds.study.iitm.ac.in
+
 # GitHub Actions Matrix Build - Quick Setup Script
 
 echo "========================================="
